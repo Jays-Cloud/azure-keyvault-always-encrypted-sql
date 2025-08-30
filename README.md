@@ -1,0 +1,1 @@
+# azure-keyvault-always-encrypted-sql
